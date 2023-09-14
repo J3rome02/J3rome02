@@ -1,4 +1,4 @@
-- 👋 Hi, I’m j3romeproj
+- 👋 Hi, I’m Jerriniash Alpajora
 - 👀 I’m interested in developing systems and technologies
 - 🌱 I’m currently student at Polytechnic University of the Philippines and soon to be Software Engineer
 - 📫 You can reach me on my:
