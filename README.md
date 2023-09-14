@@ -1,9 +1,9 @@
 - 👋 Hi, I’m j3romeproj
-- 👀 I’m interested in playing computer games
-- 🌱 I’m currently learning as much language as I can
+- 👀 I’m interested in developing systems and technologies
+- 🌱 I’m currently student at Polytechnic University of the Philippines and soon to be Software Engineer
 - 📫 You can reach me on my:
-      Facebook: jerome.alpajora17
-      Discord: J3rome#9940
+      Facebook: https://www.facebook.com/j3rome02/
+      Discord: j3rome.proj
 
 <!---
 J3rome02/J3rome02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
